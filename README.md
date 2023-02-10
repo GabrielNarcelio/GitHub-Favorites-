@@ -8,6 +8,8 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 -Visual Studio Code
 -NodeJs
 -E recomendado a extensão Live server para um melhor aproveitamento
+///////////////////////////////////////////
+Depois que baixar o projeto crie uma pasta na raiz dele com o nome js e coloque os aqrquivos(Favorites.js, GithubUsers.js, main.js)
 
 
 
